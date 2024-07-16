@@ -140,10 +140,6 @@ StandardScaler_raw = [ #######################################
 'min(div(min(np.multiply(np.multiply(max(X26, X27), 82.980), 82.980), CubeRoot(max(log2(min(max(min(np.subtract(np.cos(np.add(max(div(np.abs(log2(X4)), np.subtract(np.tan(X13), div(X19, X28))), np.cos(np.multiply(min(X27, X18), np.abs(X17)))), np.subtract(np.cos(div(div(X8, X8), log10(X21))), sqrt(np.sin(np.subtract(X0, X0)))))), np.tan(np.add(log10(np.tan(log(max(X28, X0)))), np.sin(np.abs(X10))))), max(np.subtract(div(np.cos(log10(log10(X7))), log2(min(min(X2, X19), np.cos(X1)))), log2(log2(np.sin(np.multiply(X21, X17))))), log2(np.multiply(log(log10(sqrt(np.tan(X20)))), np.add(np.multiply(np.abs(log(log2(X1))), np.subtract(min(X3, X18), log(X16))), max(log10(np.cos(X17)), np.multiply(np.add(X19, X24), max(X20, X1)))))))), log2(np.add(X18, max(log2(div(sqrt(np.tan(X21)), np.subtract(np.abs(log10(X13)), X0))), np.add(X22, np.abs(CubeRoot(np.subtract(np.subtract(X10, X27), np.subtract(X27, X7))))))))), np.add(CubeRoot(X3), min(X26, np.sin(np.abs(div(log2(np.abs(min(X1, X27))), np.add(div(np.add(np.tan(X22), CubeRoot(div(np.cos(X1), X1))), np.cos(X25)), CubeRoot(CubeRoot(np.sin(X7))))))))))), np.add(186.806, X13)))), np.sin(X29)), np.tan(np.multiply(np.add(log2(np.multiply(X26, X28)), max(np.cos(-120.770), np.multiply(div(X28, X14), log(log10(max(-147.020, X27)))))), X29)))',
 'np.sin(np.subtract(np.multiply(np.sin(min(np.abs(CubeRoot(np.tan(log(X26)))), sqrt(np.multiply(max(np.add(sqrt(np.sin(sqrt(log10(np.sin(log(X28)))))), X29), np.abs(log(max(np.tan(log10(np.multiply(CubeRoot(X5), np.cos(X28)))), np.sin(np.tan(log(max(log10(min(np.add(max(np.abs(X12), log10(np.add(X7, X19))), log(X29)), div(np.multiply(X6, np.add(log10(X29), np.multiply(CubeRoot(np.sin(max(np.multiply(X14, np.abs(div(max(max(div(X8, X21), div(sqrt(np.cos(min(min(np.tan(log10(X4)), max(log(X17), np.cos(X17))), np.add(np.cos(np.subtract(X25, X22)), CubeRoot(log(X24)))))), X21)), X5), CubeRoot(X18)))), X29))), np.cos(min(log2(X1), np.tan(max(np.add(sqrt(max(max(X26, X1), sqrt(X18))), np.abs(max(log(X4), log(X1)))), CubeRoot(np.subtract(np.abs(np.subtract(np.tan(log2(max(X27, X19))), np.subtract(log(np.subtract(log(X24), max(np.tan(X1), div(np.sin(np.multiply(np.sin(np.add(max(np.subtract(np.add(X21, X7), min(X29, X8)), np.add(log(X24), np.add(X9, X28))), np.tan(np.sin(log10(X29))))), np.subtract(log10(log(log10(X11))), max(max(max(min(log(X19), min(X4, X19)), np.abs(np.tan(X14))), np.sin(np.abs(np.add(X12, 346.560)))), np.abs(X0))))), div(X20, np.abs(np.tan(X7))))))), div(log(max(CubeRoot(CubeRoot(X19)), np.add(X4, X11))), div(log10(log10(log10(log2(np.add(X0, np.tan(X17)))))), np.subtract(X23, X19)))))), log2(np.add(X2, X9))))))))))), X0))), np.tan(np.cos(div(sqrt(log2(log2(X7))), np.sin(sqrt(log2(X27)))))))))))))), np.add(np.tan(np.tan(log10(X26))), CubeRoot(div(np.sin(X29), X4))))))), np.abs(log(X7))), log(X26)))',
 
-#############################################################################
-# Standard Scaler Dataset -> Balanced with Borderline SMOTE -> Nije dao dobre rezulate potrebno je ponovno izvrtit 
-#############################################################################
-
 
 #############################################################################
 # Standard Scaler Dataset -> Balanced with SMOTE -> Second Solution 
@@ -188,9 +184,6 @@ RobustScaler_raw = [ ###########################################################
 'np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(min(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(min(log(log(np.cos(np.subtract(-491.798, X29)))), X28), np.multiply(X26, X12)), max(X29, X27)), max(-58.947, X27)), CubeRoot(X25)), np.subtract(X4, X27)), max(X29, X27)), max(-58.947, X27)), max(X26, X26)), log10(log2(-234.087))), X26), X28), np.multiply(X26, X12)), max(X29, X27)), max(-58.947, X27)), CubeRoot(X25)), np.multiply(X26, X12)), np.sin(log2(np.subtract(np.abs(min(np.add(CubeRoot(np.multiply(log(np.tan(X14)), log10(max(X24, X8)))), log2(np.tan(min(log(X15), log(X1))))), np.cos(min(log(np.cos(np.cos(X9))), np.tan(np.abs(log(X20))))))), np.abs(np.multiply(np.add(np.cos(np.abs(CubeRoot(np.subtract(X10, X25)))), np.abs(CubeRoot(min(np.sin(X16), log2(X18))))), sqrt(log(np.subtract(sqrt(np.subtract(X21, X18)), np.tan(div(X24, X14))))))))))), max(-58.947, X27)), max(X26, X26)), max(-58.947, X26)), X26), max(-58.947, X26)), np.subtract(X29, np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(min(log(log(np.cos(np.subtract(-491.798, X29)))), X28), np.subtract(np.cos(X5), np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(min(log(log(np.cos(np.subtract(-491.798, X29)))), X28), np.multiply(X26, X12)), np.sin(np.sin(X17))), max(-58.947, X27)), max(X26, X26)), max(-58.947, X26)))), np.subtract(X29, np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(min(log(log(np.cos(np.subtract(-491.798, X29)))), X28), np.subtract(np.cos(X5), np.subtract(np.subtract(np.subtract(np.subtract(np.subtract(min(log(log(np.cos(np.subtract(-491.798, X29)))), X28), np.multiply(X26, X12)), np.sin(np.sin(X17))), max(-58.947, X27)), max(X26, X26)), max(-58.947, X26)))), max(X29, X27)), max(-58.947, X27)), CubeRoot(X25)), np.multiply(X26, X12)), max(X29, X27)), max(-58.947, X27)), max(X26, X26)), max(-58.947, X26)), X26), max(-58.947, X26)), X4), max(-58.947, X27)), max(X26, X26)), max(-58.947, X26)), max(X26, X26)), np.tan(np.cos(np.multiply(np.multiply(np.abs(log2(X6)), div(div(X15, X12), max(X7, X4))), div(np.sin(np.multiply(X27, X19)), np.cos(np.abs(X12))))))), np.subtract(X29, X16)), max(X26, np.tan(np.cos(X11)))))), max(-58.947, X27)), CubeRoot(X25)), np.multiply(X26, X12)), max(X29, X27)), max(-58.947, X27)), max(X26, X26)), log10(log2(X18))), X26), max(-58.947, X26)), X4), max(-58.947, X27)), max(X26, X26)), max(-58.947, X26)), max(X26, X26)), max(-58.947, X26)), np.subtract(X29, X16)), max(X26, np.tan(np.cos(X11)))))), max(X26, np.sin(np.multiply(X18, np.cos(np.multiply(X18, np.sin(np.sin(np.multiply(X26, X1)))))))))',
 
 
-#########################################################################
-# Robust Scaler + KMeansSMOTE Class 0 -> Ne postoji dataset 
-#########################################################################
 
 
 #########################################################################
@@ -232,9 +225,6 @@ PowerTransformer_raw = [########################################################
 'np.subtract(np.subtract(np.add(min(log2(log10(max(X26, X17))), np.sin(X21)), CubeRoot(div(np.abs(-182.483), div(np.abs(max(X27, X4)), np.add(np.add(log2(X28), min(X28, np.abs(max(X20, X8)))), CubeRoot(div(np.cos(X26), div(np.abs(X22), log2(X26))))))))), max(np.add(X27, X27), X26)), max(np.add(X27, X27), np.sin(X29)))',
 'np.subtract(np.subtract(np.subtract(np.subtract(np.multiply(np.subtract(np.subtract(np.subtract(np.multiply(np.subtract(np.subtract(np.subtract(np.subtract(np.multiply(np.subtract(np.subtract(np.subtract(log(X26), log10(min(np.abs(np.add(X9, X19)), -245.132))), np.sin(X26)), CubeRoot(CubeRoot(X29))), log10(np.subtract(-185.228, X27))), max(X12, X17)), CubeRoot(X29)), X25), X26), log10(np.subtract(-185.228, X27))), CubeRoot(X29)), X25), X26), log10(np.subtract(-185.228, X27))), CubeRoot(X26)), np.tan(np.sin(X12))), X25), X26)',
 
-##########################################################################################
-# PowerTrnasformer + KMeansSMOTE + Class 0 -> NE POSTOJI  
-##########################################################################################
 
 
 ##########################################################################################
@@ -302,27 +292,7 @@ Normalizer_raw = [##############################################################
 ]                                                                                                                                                                                                                                                                                                                          
                                                                                                                                                                                                                                                                                                                           
                                                                                                                                                                                                                                                                                                                           
-MaxAbsScaler_Raw = [########################################################################################################
-# MaxAbsScaler + ADASYN  Class 0  -> Ne postoji 
-###########################################
-
-
-
-
-###########################################
-# MaxAbsScaler + BorderlineSMOTE Class 0  -> Ne postoji 
-###########################################
-
-
-
-
-
-#######################################################
-# MaxAbsScaler + KMeansSMOTE Class 0 -> Ne postoji 
-#######################################################
-
-
-
+MaxAbsScaler_Raw = [
 
 #######################################################
 # MaxAbsScaler + SMOTE Class 0 -> k = 0
@@ -535,15 +505,6 @@ plt.plot([i for i in range(len(F1_score))], F1_score, color='yellow', label = "F
 plt.grid(True)
 plt.legend()
 plt.xticks(range(0,len(Final_pred)))
-
-        
-#    # AllResults = pd.concat([pd.DataFrame(np.array(Accuracy), columns = ["Accuracy"]),
-#    # pd.DataFrame(np.array(AUC), columns = ["AUC"]),
-#    # pd.DataFrame(np.array(Precision), columns = ["Precision"]),
-#    # pd.DataFrame(np.array(Recall), columns = ["Recall"]),
-#    # pd.DataFrame(np.array(F1_score), columns = ["F1_score"])],axis=1)    
-
-#      # AllResults.to_csv("AllResults_class_0.csv",index=False)
 
 
 final_res = pd.DataFrame([Accuracy, AUC,Precision, Recall,F1_score]).transpose()
